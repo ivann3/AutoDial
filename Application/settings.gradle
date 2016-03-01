@@ -1,0 +1,1 @@
+include ':app', ':android-logging-log4j-1.0.3', ':log4j-1.2.17'

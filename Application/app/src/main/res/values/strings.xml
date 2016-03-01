@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">copyAction</string>
+
+    <string name="path">PATH:</string>
+    <string name="action_settings">Settings</string>
+    <string name="times">次数</string>
+
+</resources>
